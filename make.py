@@ -10,7 +10,7 @@ NUM_CLUSTERS = 10
 print("""<!DOCTYPE html>
 <html>
   <head>
-    <title>Color Palette</title>
+    <title>Colours of ROP Demo</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
