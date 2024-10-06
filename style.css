@@ -1,0 +1,32 @@
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+h1 {
+  margin: 5vw 20px 0;
+  font-family: Georgia, serif;
+  font-weight: normal;
+  font-size: max(1.6rem, 4vw);
+}
+p {
+  margin: 0 20px;
+  color: #666;
+  font-family: Georgia, serif;
+  font-weight: normal;
+  font-size: max(1.2rem, 3vw);
+}
+div.frame {
+  margin: 5vw 20px;
+}
+img {
+  width: 100%;
+}
+div.palette {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+div.swatch {
+  flex: 100%;
+  aspect-ratio: 1;
+}
